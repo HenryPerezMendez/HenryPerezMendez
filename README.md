@@ -47,7 +47,7 @@ and **CS50x** at Harvard University.
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-h.a.p.m@hotmail.com-blue?style=flat&logo=microsoft-outlook)](mailto:h.a.p.m@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henry_Pérez-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Henry_Pérez-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/henry-alejandro-perez-mendez-53641217a))
 
 ---
 
